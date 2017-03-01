@@ -1,6 +1,6 @@
 # Fake Blog
 
-We will be implementing a Fake Blog together.
+This exercise will help the students understand the underpinnings of Database design in the context of a MVC application. We will be implementing a Fake Blog together.
 
 ## Features
 
@@ -11,7 +11,6 @@ We will be implementing a Fake Blog together.
 - Authors will be able to delete published posts and drafts
 - Authors will be able to edit a drafts
 
-This exercise will help the students understand the underpinnings of Database design in the context of a MVC application.
 
 ## Part 1 Instructions
 
