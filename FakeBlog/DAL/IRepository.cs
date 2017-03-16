@@ -8,5 +8,6 @@ namespace FakeBlog.DAL
 {
     interface IRepository
     {
+        void addPost(string userId);
     }
 }

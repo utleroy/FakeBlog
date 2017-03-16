@@ -12,7 +12,7 @@ namespace FakeBlog.Models
         [MinLength(3)]
         public string Title { get; set; }
 
-        public string Body { get; set;   }
+        public string Body { get; set; }
 
         public DateTime create_time { get; set; } // required by default
         public DateTime update_time { get; set; }
