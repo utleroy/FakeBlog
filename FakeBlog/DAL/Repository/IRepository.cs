@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FakeBlog.DAL
+namespace FakeBlog.DAL.Repository
 {
     interface IRepository
     {
